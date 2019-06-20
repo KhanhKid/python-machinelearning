@@ -1,7 +1,8 @@
 # python-machinelearning
 
 This is project personal for learning python and machine learning with scikit learning
-I use Jupiter for run and debug code 
+
+I use Jupiter for running and debug code 
 
 # Guide Setup 
 ## Requirement
