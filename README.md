@@ -4,6 +4,8 @@ This is project personal for learning python and machine learning with scikit le
 
 I use Jupiter for running and debug code 
 
+Predict tempeture using ARIMA Model for Time Series Forecasting
+
 # Guide Setup 
 ## Requirement
 1. Install git 
