@@ -1,0 +1,7 @@
+Date
+Precipitation
+Relative Humidity
+Max Temperature
+Solar
+Min Temperature
+Wind
