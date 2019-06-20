@@ -11,10 +11,10 @@ I use Jupiter for run and debug code
 4. Go to http://localhost:8888/ and Login str
 
 ## Folder Path
-|
-|- tempature_2019 : data each day of month in past 
-|- predict_code.py : source code for predict
-|- Result: result file will store
+    |
+    |- tempature_2019 : data each day of month in past 
+    |- predict_code.py : source code for predict
+    |- Result: result file will store
 
 ## Author
 Name: KhanhKid
