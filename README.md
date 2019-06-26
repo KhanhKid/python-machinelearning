@@ -4,13 +4,14 @@ This is project personal for learning python and machine learning with scikit le
 
 I use Jupiter for running and debug code 
 
-Predict tempeture using ARIMA Model for Time Series Forecasting
+Predict temperature using ARIMA Model for Time Series Forecasting
 
 # Guide Setup 
 ## Requirement
 1. Install git 
 2. Install Docker 
-3. Run `docker-compose up` and get the `token` for login in command line
+3. Clone code in github 
+3. Run `docker-compose up` and get the `token` for login in console log
 4. Go to http://localhost:8888/ and Login
 5. Copy source code and modify follow your specs
 
