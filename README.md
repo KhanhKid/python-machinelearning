@@ -7,7 +7,7 @@ I use Jupiter for running and debug code
 Predict temperature using ARIMA Model for Time Series Forecasting
 
 # Guide Setup 
-## Requirement
+## Requirement & Installation
 1. Install git 
 2. Install Docker 
 3. Clone code in github to your computer 
