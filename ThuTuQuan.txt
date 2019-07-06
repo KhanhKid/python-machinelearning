@@ -1,0 +1,24 @@
+0 -> q1
+1 -> q2
+2 -> q3
+3 -> q4
+4 -> q5
+5 -> q6
+6 -> q7
+7 -> q8
+8 -> q9
+9 -> q10
+10 -> q11
+11 -> q12
+12 -> bình chánh
+13 -> binh tân
+14 -> bình thạnh
+15 -> cần giờ
+16 -> củ chi
+17 -> gò vấp
+18 -> hooc môn
+19 -> nhà bè
+20 -> phú nhuận
+21 -> taân bình
+22 -> taân phú
+23 -> thủ đức

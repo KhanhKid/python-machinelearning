@@ -11,9 +11,10 @@ Predict temperature using ARIMA Model for Time Series Forecasting
 1. Install git 
 2. Install Docker 
 3. Clone code in github to your computer 
+4. Open GitBash in your local storage
 3. Run `docker-compose up` and get the `token` for login in console log
 4. Go to http://localhost:8888/ and Login
-5. Copy source code and modify follow your specs
+5. Copy source code and run follow your specs
 
 ## Folder Path
     |
