@@ -14,7 +14,7 @@ arrQuan = ['q1','q2','q3','q4','q5','q6','q7','q8','q9','q10','q11','q12','binh_
 arrDayInMonth = {4:30, 3:31}
 
 for district in range(0,24): 
-    #Dự báo tháng 4
+    #Dự báo tháng 3 + 4
     for month in range(3,5): 
         print("Tháng:%d -> Quận:%s" % (month ,arrQuan[district]))
         # read database month from csv 
@@ -26,7 +26,6 @@ for district in range(0,24):
         dataset = [x for x in train]
         numYear = 4 # số năm trong quá khứ
         numDate = arrDayInMonth[month]
-        # tháng tư có 30 ngày
         for t in range(numDate):
             history = [];
             # Đọc dữ liệu quá khứ và import vào history
